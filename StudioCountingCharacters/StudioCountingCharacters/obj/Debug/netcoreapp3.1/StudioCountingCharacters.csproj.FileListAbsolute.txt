@@ -1,0 +1,12 @@
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/bin/Debug/netcoreapp3.1/StudioCountingCharacters.deps.json
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/bin/Debug/netcoreapp3.1/StudioCountingCharacters.runtimeconfig.json
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/bin/Debug/netcoreapp3.1/StudioCountingCharacters.runtimeconfig.dev.json
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/bin/Debug/netcoreapp3.1/StudioCountingCharacters.dll
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/bin/Debug/netcoreapp3.1/StudioCountingCharacters.pdb
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/obj/Debug/netcoreapp3.1/StudioCountingCharacters.csprojAssemblyReference.cache
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/obj/Debug/netcoreapp3.1/StudioCountingCharacters.AssemblyInfoInputs.cache
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/obj/Debug/netcoreapp3.1/StudioCountingCharacters.AssemblyInfo.cs
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/obj/Debug/netcoreapp3.1/StudioCountingCharacters.csproj.CoreCompileInputs.cache
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/obj/Debug/netcoreapp3.1/StudioCountingCharacters.dll
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/obj/Debug/netcoreapp3.1/StudioCountingCharacters.pdb
+/Users/armandtsafack/Desktop/WEBDEV/csharp/StudioCountingCharacters/StudioCountingCharacters/obj/Debug/netcoreapp3.1/StudioCountingCharacters.genruntimeconfig.cache
